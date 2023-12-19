@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AntonK95
-- 🌱 I’m currently learning frontend development at folkuniversitetet Karlstad Sweden
+- 👋 Hi, I’m @AntonK95 28 years old from Sweden
+- 🌱 I’m currently learning frontend development at folkuniversitetet Karlstad
 
 
 <!---
